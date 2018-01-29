@@ -1,0 +1,7 @@
+web:
+  image: flask-web
+  command: python3 app/run.py
+  volumes:
+    - ./dev:/code
+  ports:
+    - "5000:5000"
