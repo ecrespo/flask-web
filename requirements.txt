@@ -46,7 +46,6 @@ mock
 python-geoip
 python-geoip-geolite2
 coverage
-supervisor
 tornado
 fabric
 itsdangerous
@@ -56,7 +55,6 @@ python-mimeparse
 six
 flask_whooshalchemy
 pyelasticsearch
-Flask-LDAP
 geojson
 flask-debugtoolbar
 pytest
@@ -78,9 +76,7 @@ Flask-Exceptional
 Flask-fillin
 Flask-FlatPages
 Flask-Gravatar
-Flask-HTMLBuilder
 flask-lesscss
-Flask-Lettuce
 Flask-Mako
 Flask-Misaka
 Flask-MongoKit
@@ -88,7 +84,6 @@ Flask-Peewee
 Flask-PonyWhoosh
 Flask-Principal
 Flask-QueryInspect
-Flask-Raptor
 Flask-Rest-JSONAPI
 Flask-SeaSurf
 Flask-Security
